@@ -1,1 +1,1 @@
-# Data-processing-and-storage
+# Nsu cs course
